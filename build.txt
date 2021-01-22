@@ -1,0 +1,3 @@
+displayName = All The Hamaxes
+author = MickTheRus
+version = 0.1
