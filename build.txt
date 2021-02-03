@@ -1,8 +1,5 @@
 displayName = All The Hamaxes
 author = MickTheRus
-version = 0.2
+version = 0.3
 buildIgnore = .gitignore, *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, Properties\*, .git\*
 homepage = https://discord.gg/CuVXHZt
-hideCode = true
-hideResources = true
-includeSource = false

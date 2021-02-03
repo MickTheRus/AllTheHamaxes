@@ -25,7 +25,7 @@ namespace AllTheHamaxes.Items.PlatinumHamaxe
             item.damage = 10;
             item.knockBack = 4.5f;
 
-            item.hammer = 59;
+            item.hammer = 60;
             item.axe = 12;
         }
         public override void AddRecipes()
