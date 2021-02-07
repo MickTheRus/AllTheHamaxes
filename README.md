@@ -5,3 +5,5 @@ All The Hamaxes solves that solution by giving tier 1-4 ores a hamaxe with exact
 v0.1: I was BORN! But seriously mod released with 8 hamaxes for tier 1-4 ores, for ore and alts. 
 
 v0.2 Updated build.txt and some other things, don't remember.
+
+v0.3: Bone hamaxe added with drop rate of 0.49% from Skeletons, also 5% from Undead Miners just..... For No Reason...
